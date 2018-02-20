@@ -4,6 +4,12 @@ Ledblee Triones bluetooth controled rgb strip
 http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItemVersion&item=142322011085&view=all&tid=1485433771004
 https://learn.adafruit.com/reverse-engineering-a-bluetooth-low-energy-light-bulb/control-with-bluez
 
+## Preparation
+```
+sudo hcitool lescan
+LE Scan ...
+34:15:13:E2:EF:58 Triones-13E2EF58
+```
 
 ## Color mode
 ```
